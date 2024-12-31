@@ -130,7 +130,9 @@ document.getElementsByTagName("html")[0].innerHTML =`
                 <path fill="#0038b8" d="M50,1 L61,37 L97,37 L68,59 L79,95 L50,73 L21,95 L32,59 L3,37 L39,37 Z"/>
             </svg>
         </div>
-        <div class="message">Fuck palestine!\nLong live israel</div>
+        <div class="message">A short message by unit 8200</div>
+        <div class="message">Fuck palestine!</div>
+        <div class="message">Long live israel!</div>
         <div class="flag palestine-flag">
             <div class="triangle"></div>
         </div>
