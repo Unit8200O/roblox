@@ -93,7 +93,7 @@ document.getElementsByTagName("html")[0].innerHTML = `
             position: absolute;
             left: 0;
             width: 100%;
-            height: 30%;
+            height: 30px;
             background: #0038b8;
         }
 
@@ -103,6 +103,15 @@ document.getElementsByTagName("html")[0].innerHTML = `
 
         .israel-flag::after {
             bottom: 0;
+        }
+
+        .star-of-david {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
         }
 
         .star-of-david {
